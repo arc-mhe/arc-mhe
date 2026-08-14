@@ -1,13 +1,14 @@
 # Hi, I'm Samuel Olamide 👋🏽
 
-### Software Engineer Intern Candidate | Mobile App Developer | Mechatronics Engineering
+### Aspiring Software Engineer | Mobile App Developer | Mechatronics Engineering
 
 I'm a Mechatronics Engineering Technology student and aspiring software engineer
-interested in building practical solutions through software, AI, automation, and
-intelligent systems.
+interested in building practical solutions through software, AI, automation,
+and intelligent systems.
 
 I enjoy turning ideas into working applications and exploring how software,
-engineering, and artificial intelligence can work together to solve real-world problems.
+engineering, and artificial intelligence can work together to solve real-world
+problems.
 
 ---
 
