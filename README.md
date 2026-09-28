@@ -59,13 +59,9 @@ workflows for a hair artistry business.
 
 **Tech:** React Native • Expo • JavaScript • AsyncStorage
 
-### ⚡ Electra
+### ⚡ lectra
 A campus-focused mobile application developed around a practical tertiary
 institution use case.
-
-### 🤖 INTRUSEC AI
-An intelligent security-system concept combining AI, computer vision,
-edge computing, and hardware integration.
 
 ### 🐍 Python & Machine Learning
 Exploring practical machine-learning applications using Python,
